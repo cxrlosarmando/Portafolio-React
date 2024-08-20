@@ -1,0 +1,17 @@
+@keyframes scroll {
+    0% {
+      transform: translateX();
+    }
+    100% {
+      transform: translateX(10%);
+    }
+  }
+  
+  .animate-scroll {
+    display: flex;
+    width: 200%;
+    animation: scroll 50s linear infinite;
+    /* Ajusta la duración (20s) según la velocidad de desplazamiento deseada */
+    white-space: nowrap;
+  }
+  
