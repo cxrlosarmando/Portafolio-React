@@ -8,7 +8,7 @@ export const Content = () => {
                 <img
                     src="/A7306861.jpg"
                     alt="Perfil"
-                    className="w-40 h-40 rounded-full object-cover border-4 border-gray-200 sm:w-48 sm:h-48 md:w-56 md:h-56 lg:w-64 lg:h-64" 
+                    className="w-40 h-40 rounded-full object-cover border-4 border-gray-200 sm:w-48 sm:h-48 md:w-56 md:h-56 lg:w-64 lg:h-64"
                 />
             </div>
 
@@ -19,7 +19,7 @@ export const Content = () => {
 
             <div className="text-center">
                 <p className="text-base text-white sm:text-lg md:text-xl lg:text-2xl">
-                    Apasionado por la creación de experiencias digitales impactantes, combino de manera eficiente el diseño atractivo con un código sólido. Con formación en UX/UI y Desarrollo Full Stack, me especializo en elevar la usabilidad y la innovación en proyectos tecnológicos.
+                    Apasionado por la creación de experiencias digitales impactantes combinando de manera eficiente el diseño atractivo con un código sólido. Con formación en UX/UI y Desarrollo Full Stack, me especializo en elevar la usabilidad y la innovación en proyectos tecnológicos.
                     Explora mis proyectos de programación y diseño en Figma.
                 </p>
             </div>
