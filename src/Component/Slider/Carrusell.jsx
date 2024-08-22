@@ -2,15 +2,15 @@ import React, { useState, useEffect } from 'react';
 import './Carrusell.css'
 const technologies = [
   // Aca van las referencias de las imagenes del carrusell
-  { name: 'HTML5', image: 'public/html5.svg' },
-  { name: 'CSS3', image: 'public/css3.svg' },
-  { name: 'JS', image: 'public/javascript.svg' },
-  { name: 'Node.js', image: 'public/nodedotjs.svg' },
-  { name: 'React', image: 'public/react.svg' },
-  {name: 'Tailwind', image: 'public/tailwindcss.svg'},
-  {name: 'WordPress', image: 'public/wordpress.svg'},
-  {name: 'Boostrap', image: 'public/bootstrap.svg'},
-  {name: 'mongodb', image: 'public/mongodb.svg'}
+  { name: 'HTML5', image: '/html5.svg' },
+  { name: 'CSS3', image: '/css3.svg' },
+  { name: 'JS', image: '/javascript.svg' },
+  { name: 'Node.js', image: '/nodedotjs.svg' },
+  { name: 'React', image: '/react.svg' },
+  {name: 'Tailwind', image: '/tailwindcss.svg'},
+  {name: 'WordPress', image: '/wordpress.svg'},
+  {name: 'Boostrap', image: '/bootstrap.svg'},
+  {name: 'mongodb', image: '/mongodb.svg'}
   
 ];
 

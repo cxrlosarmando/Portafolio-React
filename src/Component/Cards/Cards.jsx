@@ -12,7 +12,7 @@ export const Cards = () => {
                     <div className="flex flex-wrap sm:-m-4 -mx-4 -mb-10 -mt-4">
                         <div className="p-4 md:w-1/3 sm:mb-0 mb-6">
                             <div className="rounded-lg h-64 overflow-hidden">
-                                <img alt="content" className="object-cover object-center h-full w-full" src=".../assets/img/Aca-estamos-Portada.png"></img>
+                                <img alt="content" className="object-cover object-center h-full w-full" src="/Aca-estamos-Portada.png"></img>
                             </div>
                             <h2 className="text-xl font-medium title-font text-white mt-5">Aca estamos!</h2>
                             <p className="text-base leading-relaxed mt-2">Proyecto colaborativo para la Municipalidad de Renca, enfocado en crear un banco de talento que facilite a las empresas la búsqueda de candidatos. Este proyecto se desarrolló como parte de mi formación en Generation.</p>
@@ -24,7 +24,7 @@ export const Cards = () => {
                         </div>
                         <div className="p-4 md:w-1/3 sm:mb-0 mb-6">
                             <div className="rounded-lg h-64 overflow-hidden">
-                                <img alt="content" className="object-cover object-center h-full w-full" src=".../assets/img/TuReceta-Portada.png"></img>
+                                <img alt="content" className="object-cover object-center h-full w-full" src="/TuReceta-Portada.png"></img>
                             </div>
                             <h2 className="text-xl font-medium title-font text-white mt-5">TuReceta.cl</h2>
                             <p className="text-base leading-relaxed mt-2">Este proyecto fusiona dos de mis grandes pasiones: la programación y la cocina. Fue aquí donde di mis primeros pasos en el mundo del código, una experiencia que despertó en mí un profundo amor por la programación. Te invito a explorar recetas y descubrir uno de mis primeros proyectos, creado con dedicación y cariño.</p>
@@ -36,7 +36,7 @@ export const Cards = () => {
                         </div>
                         <div className="p-4 md:w-1/3 sm:mb-0 mb-6">
                             <div className="rounded-lg h-64 overflow-hidden">
-                                <img alt="content" className="object-cover object-center h-full w-full" src=".../assets/img/Zenit.png"></img>
+                                <img alt="content" className="object-cover object-center h-full w-full" src="/Zenit.png"></img>
                             </div>
                             <h2 className="text-xl font-medium title-font text-white mt-5">Grupo Zenit</h2>
                             <p className="text-base leading-relaxed mt-2">Uno de mis primeros desafíos profesionales fue rediseñar una página web en Figma y luego implementar los cambios en WordPress utilizando el plugin Avada. Este proyecto me permitió ampliar mis conocimientos y renovar la imagen de la empresa, alineándola mejor con lo que quería transmitir. </p>
