@@ -2,15 +2,15 @@ import React, { useState, useEffect } from 'react';
 import './Carrusell.css'
 const technologies = [
   // Aca van las referencias de las imagenes del carrusell
-  { name: 'HTML5', image: 'src/assets/svg/html5.svg' },
-  { name: 'CSS3', image: 'src/assets/svg/css3.svg' },
-  { name: 'JS', image: 'src/assets/svg/javascript.svg' },
-  { name: 'Node.js', image: 'src/assets/svg/nodedotjs.svg' },
-  { name: 'React', image: 'src/assets/svg/react.svg' },
-  {name: 'Tailwind', image: 'src/assets/svg/tailwindcss.svg'},
-  {name: 'WordPress', image: 'src/assets/svg/wordpress.svg'},
-  {name: 'Boostrap', image: 'src/assets/svg/bootstrap.svg'},
-  {name: 'mongodb', image: 'src/assets/svg/mongodb.svg'}
+  { name: 'HTML5', image: 'public/html5.svg' },
+  { name: 'CSS3', image: 'public/css3.svg' },
+  { name: 'JS', image: 'public/javascript.svg' },
+  { name: 'Node.js', image: 'public/nodedotjs.svg' },
+  { name: 'React', image: 'public/react.svg' },
+  {name: 'Tailwind', image: 'public/tailwindcss.svg'},
+  {name: 'WordPress', image: 'public/wordpress.svg'},
+  {name: 'Boostrap', image: 'public/bootstrap.svg'},
+  {name: 'mongodb', image: 'public/mongodb.svg'}
   
 ];
 

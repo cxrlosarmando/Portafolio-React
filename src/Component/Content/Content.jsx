@@ -6,7 +6,7 @@ export const Content = () => {
 
             <div className="flex justify-center mb-6">
                 <img
-                    src="src/assets/img/A7306861.jpg"
+                    src=".../assets/img/A7306861.jpg"
                     alt="Perfil"
                     className="w-40 h-40 rounded-full object-cover border-4 border-gray-200 sm:w-48 sm:h-48 md:w-56 md:h-56 lg:w-64 lg:h-64" 
                 />
